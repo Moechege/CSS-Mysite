@@ -1,0 +1,103 @@
+body{
+    margin: 0px;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+h1{
+    font-size: 5.25rem;
+    margin-top: 50px;
+    font-family: 'Sacramento', cursive;
+    color: white;
+    
+}
+h2{
+    font-size: 2.5rem;
+    font-weight: bolder;
+    color:#ca5116;
+}
+    
+h3{
+    font-family: 'Slabo 27px', serif;
+    color: #ca5116;
+}
+.Top-container{
+    background-color: #ca5116;
+    position: relative;
+   padding-top: 50px;
+}
+
+.webdesigner{
+    color: white;
+}
+
+.top-cloud{
+    position: absolute;
+    right:300px;
+    top: 50px;
+}
+.bottom-cloud{
+    position: absolute;
+ left: 300px;
+ bottom: 300px;
+
+}
+a{
+    font-weight: bolder;
+    color: #0e837d
+}
+.skill-row{
+    width: 50%;
+    margin:100px auto 150px auto;
+    text-align: left;
+    
+}
+.design-img{
+    width: 25%;
+    float: left;
+    padding-bottom: 25px;
+    margin-right: 30px;
+}
+    
+
+.programmer-img{
+    width: 25%;
+    float: right;
+    padding-bottom: 25px;
+    margin-left: 30px;
+}
+hr{
+    border-style:none ;
+    border-top: dotted;
+   border-width: 5px;
+   border-color: grey;
+   width: 5%;
+   margin: 100px auto;
+}
+.bottom-container{
+    background-color:#ca5116 ;
+    position: relative;
+}
+.linkedin{
+    position: absolute;
+    left: 400px;
+    bottom:50px;
+}
+.twitter{
+    position: absolute;
+    left: 500px;
+    bottom: 50px;
+}
+.appbrewery{
+    position: absolute;
+    left: 600px;
+    bottom: 50px;
+}
+.contactme{
+    width: 40%;
+    margin: 40px auto 60px;
+}
+.profile{
+    width: 40%;
+    margin: auto;
+}
